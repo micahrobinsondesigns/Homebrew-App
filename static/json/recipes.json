@@ -1,0 +1,65 @@
+{
+  "list": [
+    {
+      "id": "1",
+      "tags": ["beer"],
+      "title": "Centennial Blonde",
+      "image": "static/images/IMG_3692.jpg",
+      "imagetbn": "static/images/IMG_3692-tbn.jpg",
+      "ingredients": ["5lb Extra Light DME", "1lb Cara-Pils/Dextrine", "0.25oz Centennial (45 min)", "0.25oz Centennial (20 min)", "0.25oz Cascade (10 min)", "0.25oz Cascade (5 min)", "Nottingham Yeast"],
+      "instructions": ["Mash at 150°F for 60 minutes.", "<strong>Boil Time:</strong> 60 minutes", "<strong>Primary Fermentation:</strong> 4 days at 68°F", "<strong>Secondary Fermentation:</strong> 5 Days at 68°F"],
+      "notes": "No Notes.",
+      "source": "https://www.homebrewtalk.com/threads/centennial-blonde-simple-4-all-grain-5-10-gall.42841/"
+    },
+    {
+      "id": "2",
+      "tags": ["beer"],
+      "title": "American IPA",
+      "image": "static/images/lemon-banana-4.jpg",
+      "imagetbn": "static/images/lemon-banana-4-tbn.jpg",
+      "ingredients": ["7lb Extra Light DME", "8oz Cara-Pils/Dextrine", "8oz Caramel/Crystal Malt (60L)", "1oz Pearl (60 min)", "0.5oz Cascade (15 min)", "0.5oz Cascade (10 min)", "0.5oz Cascade (5 min)"],
+      "instructions": ["Mash at 154°F for 65 minutes.", "<strong>Boil Time:</strong> 70 minutes", "<strong>Primary Fermentation:</strong> 7 days at 64°F", "<strong>Secondary Fermentation:</strong> 10 Days at 64°F"],
+      "notes": "No Notes."
+    },
+    {
+      "id": "3",
+      "tags": ["beer"],
+      "title": "Milk Chocolate Stout",
+      "image": "static/images/chocchipchunk_10.jpg",
+      "imagetbn": "static/images/chocchipchunk_10-tbn.jpg",
+      "ingredients": ["3lb Pale Ale DME", "0.5lb Flaked Barley", "0.5lb Pale Chocolate Malt (250L)", "0.25lb Roasted Barley (300L)", "0.25lb Crystal (80L)", "0.25lb Lactose", "1sp Amylase", "0.25oz Magnum (60 min)", "Tincture: 4oz Cocoa Nibs, 1tsp Vanilla Paste, 4oz Rum"],
+      "instructions": ["Mash grains with amylase in one gallon of water at 155°F", "Remove from heat once grins are in and cover keeping it ~146-154°F for 30 minutes", "Heat another gallon to 160°F for sparging. Sparge for 10+ minutes.", "Combine two gallons together heat to boil and add DME.", "<strong>Boil Time:</strong> 60 minutes", "With 10 minutes left in the boil, add lactose."],
+      "notes": "Dry hop with cocoa tincture in secondary."
+    },
+    {
+      "id": "4",
+      "tags": ["beer"],
+      "title": "Bee Cave Brewery Haus Pale Ale",
+      "image": "static/images/Christmas-Star-Twisted-Bread.jpg",
+      "imagetbn": "static/images/Christmas-Star-Twisted-Bread-tbn.jpg",
+      "ingredients": ["5.3lb Extra Pale DME", "1.5lb Munich LME (or 1.25lb Munich DME)", "0.5lb Crystal (10L)", "1oz Cascade (60 min)", "0.5oz Cascade (30 min)", "0.25oz Cascade (15 min)", "0.25oz Cascade (5 min)"],
+      "instructions": ["Mash grains in one gallon of water at 168°F for an hour", "Heat another gallon to 170°F for sparging. Sparge for 10+ minutes.", "<strong>Boil Time:</strong> 60 minutes", "<strong>Primary Fermentation:</strong> 10 days at 68°F"],
+      "source": "https://www.homebrewtalk.com/threads/bee-cave-brewery-haus-pale-ale.31793/"
+    },
+    {
+      "id": "5",
+      "tags": ["beer"],
+      "title": "Cream of Three Crops Cream Ale",
+      "image": "static/images/Christmas-Star-Twisted-Bread.jpg",
+      "imagetbn": "static/images/Christmas-Star-Twisted-Bread-tbn.jpg",
+      "ingredients": ["5lb Extra Light DMR (Pilsen Light)", "3lb Pale Malt", "2.5lb Flaked Corn", "1lb Minute Rice", "0.5oz Willamette (60 min)", "0.5oz Crystal (60 min)"],
+      "instructions": ["Mash at 152°F for 30 minutes.", "<strong>Boil Time:</strong> 90 minutes", "<strong>Primary Fermentation:</strong> 14 days at 68°F", "Kegged and chilled for 10 days"],
+      "source": "https://www.homebrewtalk.com/threads/cream-of-three-crops-cream-ale.66503/"
+    },
+    {
+      "id": "6",
+      "tags": ["beer"],
+      "title": "Dogfish Head 60 Minute Clone",
+      "image": "static/images/Christmas-Star-Twisted-Bread.jpg",
+      "imagetbn": "static/images/Christmas-Star-Twisted-Bread-tbn.jpg",
+      "ingredients": ["8lb Extra Light DMR", "1lb Caramel/Crystal Malt (40L)", "1.25oz Warrior", "2oz Amarillo Gold", "1.5oz Simcoe"],
+      "instructions": ["Mash at 150-155°F for 20 minutes.", "<strong>Boil Time:</strong> 60 minutes", "Add 0.5oz Warrior hops at 60 minutes, continue adding the rest of the Warrior pellets every minute for 25 minutes.", "Mix 1oz Amarillo Gold and 1oz Simcoe and add pellets from the mixture for the remaining 35 minutes.", "<strong>Primary Fermentation:</strong> 10 days at 63°F", "<strong>Secondary Fermentation:</strong> 10 days at 63°F", "Dry hop with 1oz Amarillo Gold and 0.5oz Simcoe in secondary fermentation."],
+      "source": "https://www.homebrewtalk.com/threads/dogfish-head-60-minute-clone-ag-extract.25709/"
+    }
+  ]
+}
